@@ -1,4 +1,6 @@
 remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default"
+
 locale                   : "ko-KR"
 title                    : "Keep it real"
 title_separator          : " "
