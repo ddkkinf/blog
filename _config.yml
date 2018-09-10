@@ -6,4 +6,4 @@ name                     : "Argent"
 description              : "For my favorite"
 url                      : "https://ddkkinf.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : https://github.com/ddkkinf/ddkkinf.github.io
+repository               : ddkkinf/ddkkinf.github.io
