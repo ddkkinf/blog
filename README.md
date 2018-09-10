@@ -1,1 +1,1 @@
-https://ddkkinf.github.io/blog
+https://ddkkinf.github.io
