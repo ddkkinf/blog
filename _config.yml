@@ -1,1 +1,9 @@
 remote_theme : mmistakes/minimal-mistakes
+locale                   : "ko-KR"
+title                    : "Keep it real"
+title_separator          : " "
+name                     : "Argent"
+description              : "For my favorite"
+url                      : "https://ddkkinf.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
